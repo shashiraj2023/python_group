@@ -1,5 +1,3 @@
 # python_group
 
-this is my first git repository
-Author -- shashi raj
-second author
+This is the python project needed to save my life
